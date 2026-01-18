@@ -1,0 +1,25 @@
+C:\Users\USER\source\repos\login page1\login page1\bin\Debug\login page1.exe
+C:\Users\USER\source\repos\login page1\login page1\bin\Debug\login page1.exe.config
+C:\Users\USER\source\repos\login page1\login page1\obj\Debug\login page1.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\login page1\login page1\obj\Debug\login_page1.AddMedicine.resources
+C:\Users\USER\source\repos\login page1\login page1\obj\Debug\login_page1.lblpass.resources
+C:\Users\USER\source\repos\login page1\login page1\obj\Debug\login_page1.Form1.resources
+C:\Users\USER\source\repos\login page1\login page1\obj\Debug\login_page1.Form4.resources
+C:\Users\USER\source\repos\login page1\login page1\obj\Debug\login_page1.Properties.Resources.resources
+C:\Users\USER\source\repos\login page1\login page1\obj\Debug\login_page1.sellmedicine.resources
+C:\Users\USER\source\repos\login page1\login page1\obj\Debug\login_page1.view_medicine.resources
+C:\Users\USER\source\repos\login page1\login page1\obj\Debug\login page1.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\login page1\login page1\obj\Debug\login page1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\login page1\login page1\obj\Debug\login page1.exe
+C:\Users\USER\source\repos\login page1\login page1\obj\Debug\login page1.pdb
+C:\Users\USER\source\repos\login page1\login page1\obj\Debug\login page1.exe.config
+D:\aathil\login page1\obj\Debug\login page1.csproj.SuggestedBindingRedirects.cache
+D:\aathil\login page1\obj\Debug\login_page1.AddMedicine.resources
+D:\aathil\login page1\obj\Debug\login_page1.dash.resources
+D:\aathil\login page1\obj\Debug\login_page1.loginpage.resources
+D:\aathil\login page1\obj\Debug\login_page1.Form4.resources
+D:\aathil\login page1\obj\Debug\login_page1.Properties.Resources.resources
+D:\aathil\login page1\obj\Debug\login_page1.sellmedicine.resources
+D:\aathil\login page1\obj\Debug\login_page1.view_medicine.resources
+D:\aathil\login page1\obj\Debug\login page1.csproj.GenerateResource.cache
+D:\aathil\login page1\obj\Debug\login page1.csproj.CoreCompileInputs.cache

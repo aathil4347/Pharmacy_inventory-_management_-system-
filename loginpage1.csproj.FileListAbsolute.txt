@@ -1,0 +1,48 @@
+D:\aathil\login page1\bin\Debug\loginpage1.exe.config
+D:\aathil\login page1\bin\Debug\loginpage1.exe
+D:\aathil\login page1\bin\Debug\loginpage1.pdb
+D:\aathil\login page1\obj\Debug\loginpage1.csproj.SuggestedBindingRedirects.cache
+D:\aathil\login page1\obj\Debug\login_page1.AddMedicine.resources
+D:\aathil\login page1\obj\Debug\login_page1.dash.resources
+D:\aathil\login page1\obj\Debug\login_page1.loginpage.resources
+D:\aathil\login page1\obj\Debug\login_page1.pharmasist.resources
+D:\aathil\login page1\obj\Debug\login_page1.Properties.Resources.resources
+D:\aathil\login page1\obj\Debug\login_page1.sellmedicine.resources
+D:\aathil\login page1\obj\Debug\login_page1.view_medicine.resources
+D:\aathil\login page1\obj\Debug\loginpage1.csproj.GenerateResource.cache
+D:\aathil\login page1\obj\Debug\loginpage1.csproj.CoreCompileInputs.cache
+D:\aathil\login page1\obj\Debug\loginpage1.exe
+D:\aathil\login page1\obj\Debug\loginpage1.pdb
+D:\aathil\login page1\obj\Debug\loginpage1.csproj.AssemblyReference.cache
+E:\Pharmacy Inventory Management System video 12\login page1\bin\Debug\loginpage1.exe.config
+E:\Pharmacy Inventory Management System video 12\login page1\bin\Debug\loginpage1.exe
+E:\Pharmacy Inventory Management System video 12\login page1\bin\Debug\loginpage1.pdb
+E:\Pharmacy Inventory Management System video 12\login page1\obj\Debug\loginpage1.csproj.AssemblyReference.cache
+E:\Pharmacy Inventory Management System video 12\login page1\obj\Debug\loginpage1.exe.config
+E:\Pharmacy Inventory Management System video 12\login page1\obj\Debug\login_page1.AddMedicine.resources
+E:\Pharmacy Inventory Management System video 12\login page1\obj\Debug\login_page1.dash.resources
+E:\Pharmacy Inventory Management System video 12\login page1\obj\Debug\login_page1.loginpage.resources
+E:\Pharmacy Inventory Management System video 12\login page1\obj\Debug\login_page1.pharmasist.resources
+E:\Pharmacy Inventory Management System video 12\login page1\obj\Debug\login_page1.Properties.Resources.resources
+E:\Pharmacy Inventory Management System video 12\login page1\obj\Debug\login_page1.sellmedicine.resources
+E:\Pharmacy Inventory Management System video 12\login page1\obj\Debug\login_page1.view_medicine.resources
+E:\Pharmacy Inventory Management System video 12\login page1\obj\Debug\loginpage1.csproj.GenerateResource.cache
+E:\Pharmacy Inventory Management System video 12\login page1\obj\Debug\loginpage1.csproj.CoreCompileInputs.cache
+E:\Pharmacy Inventory Management System video 12\login page1\obj\Debug\loginpage1.exe
+E:\Pharmacy Inventory Management System video 12\login page1\obj\Debug\loginpage1.pdb
+C:\Users\ASUS\Desktop\AATHIL\Pharmacy Inventory Management System video 12\login page1\bin\Debug\loginpage1.exe.config
+C:\Users\ASUS\Desktop\AATHIL\Pharmacy Inventory Management System video 12\login page1\bin\Debug\loginpage1.exe
+C:\Users\ASUS\Desktop\AATHIL\Pharmacy Inventory Management System video 12\login page1\bin\Debug\loginpage1.pdb
+C:\Users\ASUS\Desktop\AATHIL\Pharmacy Inventory Management System video 12\login page1\obj\Debug\loginpage1.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\AATHIL\Pharmacy Inventory Management System video 12\login page1\obj\Debug\loginpage1.exe.config
+C:\Users\ASUS\Desktop\AATHIL\Pharmacy Inventory Management System video 12\login page1\obj\Debug\login_page1.AddMedicine.resources
+C:\Users\ASUS\Desktop\AATHIL\Pharmacy Inventory Management System video 12\login page1\obj\Debug\login_page1.dash.resources
+C:\Users\ASUS\Desktop\AATHIL\Pharmacy Inventory Management System video 12\login page1\obj\Debug\login_page1.loginpage.resources
+C:\Users\ASUS\Desktop\AATHIL\Pharmacy Inventory Management System video 12\login page1\obj\Debug\login_page1.pharmasist.resources
+C:\Users\ASUS\Desktop\AATHIL\Pharmacy Inventory Management System video 12\login page1\obj\Debug\login_page1.Properties.Resources.resources
+C:\Users\ASUS\Desktop\AATHIL\Pharmacy Inventory Management System video 12\login page1\obj\Debug\login_page1.sellmedicine.resources
+C:\Users\ASUS\Desktop\AATHIL\Pharmacy Inventory Management System video 12\login page1\obj\Debug\login_page1.view_medicine.resources
+C:\Users\ASUS\Desktop\AATHIL\Pharmacy Inventory Management System video 12\login page1\obj\Debug\loginpage1.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\AATHIL\Pharmacy Inventory Management System video 12\login page1\obj\Debug\loginpage1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\AATHIL\Pharmacy Inventory Management System video 12\login page1\obj\Debug\loginpage1.exe
+C:\Users\ASUS\Desktop\AATHIL\Pharmacy Inventory Management System video 12\login page1\obj\Debug\loginpage1.pdb
